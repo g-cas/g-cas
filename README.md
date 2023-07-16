@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Grant
-- 👀 I’m interested in everything!
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any open source projects that requires documentation
+- 👋 Hi, I’m Grant!
+- 👀 I’m interested in machine learning, automation, and app development.
+- 🌱 I’m currently learning Python _(and would also like to learn Java and Swift)._
+- 💞️ I’m looking to collaborate on projects that require documentation.
 - 📫 How to reach me at 0-sledges-thaw@icloud.com
 
 <!---
